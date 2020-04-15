@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Home from './views/Home';
 import Movie from './views/Movie';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import './App.css';
 
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
@@ -46,7 +47,6 @@ function App() {
   return (
     <Router>
       <Navbar setSearchTerm={setSearchTerm} />
-
       <Switch>
         <Route
           exact
@@ -68,14 +68,7 @@ function App() {
           }}
         />
       </Switch>
-
-      <footer>
-        Built with{' '}
-        <span role='img' aria-label='love'>
-          ♥️
-        </span>{' '}
-        by <a href='https://twitter.com/kingisaac95'>@kingisaac95</a>
-      </footer>
+      <Footer />
     </Router>
   );
 }
