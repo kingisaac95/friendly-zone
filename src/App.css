@@ -24,8 +24,8 @@ p {
   text-align: center;
 }
 
-.header > h2 {
-  font-weight: bolder;
+.header h2 {
+  font-weight: 900;
 }
 
 .details-header {

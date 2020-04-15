@@ -16,11 +16,7 @@ function Navbar({ setSearchTerm }) {
     return (
       <header className='header'>
         <Link to='/'>
-          <h2>
-            FRIENDLY
-            <br />
-            ZONE
-          </h2>
+          <h2>FRIENDLY ZONE</h2>
         </Link>
         <form>
           <label className='search-icon' htmlFor='search'>
