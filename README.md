@@ -1,5 +1,9 @@
 ## React - Wookie Movies (Friendly Zone)
 
+<img width="1679" alt="Screenshot 2020-04-15 at 23 35 05" src="https://user-images.githubusercontent.com/26261917/79396058-ff08fd80-7f72-11ea-8fa5-42eebf07be53.png">
+
+<img width="1679" alt="Screenshot 2020-04-15 at 23 16 45" src="https://user-images.githubusercontent.com/26261917/79396163-337cb980-7f73-11ea-8259-614932e7bba0.png">
+
 ### Description
 
 You are the owner of a movie theater in **Thikkiiana City,** on the Wookiee homeworld of Kashyyyk. Your customers are bored with the never changing selection and are asking for something completely different - they want to see what's playing on Earth. Wookies are the main exporter of Computer Technology for the New Republic so naturally you roll up your sleeves and get to work. You quickly scribble down some notes and after a few hours of relentless work you have a design in mind.
