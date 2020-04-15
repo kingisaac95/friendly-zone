@@ -68,6 +68,14 @@ function App() {
           }}
         />
       </Switch>
+
+      <footer>
+        Built with{' '}
+        <span role='img' aria-label='love'>
+          ♥️
+        </span>{' '}
+        by <a href='https://twitter.com/kingisaac95'>@kingisaac95</a>
+      </footer>
     </Router>
   );
 }
